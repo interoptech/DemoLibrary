@@ -1,0 +1,2 @@
+# DemoLibrary
+local quasar docs
